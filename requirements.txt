@@ -1,0 +1,13 @@
+opencv-python
+numpy
+scipy
+pillow
+scikit-learn
+tensorflow
+flask
+fastapi
+streamlit
+pandas
+matplotlib
+pdfplumber
+pymupdf
